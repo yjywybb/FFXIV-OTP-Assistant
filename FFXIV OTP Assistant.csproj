@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>FFXIV_OTP_Assistant</RootNamespace>
+    <ApplicationIcon>kisspng-final-fantasy-xiv-stormblood-final-fantasy-xiv-h-meteor-5ac0e65e9400f3.1832332115225913266062.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>
