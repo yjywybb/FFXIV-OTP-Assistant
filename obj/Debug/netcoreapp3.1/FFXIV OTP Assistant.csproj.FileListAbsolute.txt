@@ -1,0 +1,15 @@
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\bin\Debug\netcoreapp3.1\FFXIV OTP Assistant.exe
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\bin\Debug\netcoreapp3.1\FFXIV OTP Assistant.deps.json
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\bin\Debug\netcoreapp3.1\FFXIV OTP Assistant.runtimeconfig.json
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\bin\Debug\netcoreapp3.1\FFXIV OTP Assistant.runtimeconfig.dev.json
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\bin\Debug\netcoreapp3.1\FFXIV OTP Assistant.dll
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\bin\Debug\netcoreapp3.1\FFXIV OTP Assistant.pdb
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\obj\Debug\netcoreapp3.1\FFXIV_OTP_Assistant.Properties.Resources.resources
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\obj\Debug\netcoreapp3.1\FFXIV OTP Assistant.csproj.GenerateResource.cache
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\obj\Debug\netcoreapp3.1\FFXIV OTP Assistant.AssemblyInfoInputs.cache
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\obj\Debug\netcoreapp3.1\FFXIV OTP Assistant.AssemblyInfo.cs
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\obj\Debug\netcoreapp3.1\FFXIV OTP Assistant.dll
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\obj\Debug\netcoreapp3.1\FFXIV OTP Assistant.pdb
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\obj\Debug\netcoreapp3.1\FFXIV OTP Assistant.genruntimeconfig.cache
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\obj\Debug\netcoreapp3.1\FFXIV OTP Assistant.csprojAssemblyReference.cache
+C:\Users\yjywybb\source\repos\FFXIV OTP Assistant\obj\Debug\netcoreapp3.1\FFXIV OTP Assistant.csproj.CoreCompileInputs.cache
